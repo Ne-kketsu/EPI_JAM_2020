@@ -14,6 +14,7 @@
 -   Move left/right : directional arrows OR 'A' / 'D'
 -   Jump : 'W'
 -   Dash : 'Left Shift'
+
 *P2*
 -   Spawn : 'I'
 -   Move left/right : 'J' / 'L'
