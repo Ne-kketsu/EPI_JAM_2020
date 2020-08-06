@@ -1,7 +1,7 @@
-# EPI_JAM_2020
+# EPI_JAM_2020 - Space Fight
 48h Epitech Jam 1st edition. [THEME: SPACE]
 
-# Preview
+# Space Fight Preview
 ![Space Fight](SpaceFightPrev.gif)
 
 *HOW TO PLAY :*
