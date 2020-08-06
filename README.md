@@ -1,6 +1,9 @@
 # EPI_JAM_2020
 48h Epitech Jam 1st edition. [THEME: SPACE]
 
+# Preview
+![Space Fight](SpaceFightPrev.gif)
+
 *HOW TO PLAY :*
 # Linux
 -   Open your terminal in 'EPI_JAM_2020/bin/Linux' and run './SpaceFighter.x86_64'
