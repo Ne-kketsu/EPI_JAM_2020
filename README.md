@@ -23,3 +23,5 @@
 -   Move left/right : 'J' / 'L'
 -   Jump : 'I'
 -   Dash : 'Space'
+
+Contributor : @Cszesia
